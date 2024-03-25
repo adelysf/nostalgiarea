@@ -1,0 +1,47 @@
+.navbar {
+    background-color: #5f4415; 
+    color: #FFFFFF;
+}
+
+.navbar-brand {
+    color: #ffffff; 
+}
+
+.navbar-brand:hover {
+    color: #cccccc; 
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff; 
+}
+
+.navbar-nav .nav-link:hover {
+    color: #cccccc; 
+}
+
+.custom-card {
+    
+    width: 360px;
+    height: 350px;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.carousel-item img {
+    width: 50%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
